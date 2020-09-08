@@ -1,0 +1,104 @@
+body{
+  background-color: #dbe3e5;
+  width: 100%;
+}
+hr{
+  width: 350px;
+}
+footer{
+  width: 1349px;
+  height: 327px;
+}
+
+.logo{
+    margin: 100px 500px 50px 500px;
+    padding: 0 132px;
+}
+.logo img{
+  border-radius: 60%;
+  width: 70px;
+}
+
+/* TEXT */
+.text1{
+  margin-bottom: 75px;
+  width: 1349px;
+  height: 96px;
+}
+.text1 h1{
+  font-weight: lighter;
+   text-align: center;
+
+}
+
+/* CARD */
+.parent-card{
+  width: 800px;
+  margin: 0 265px;
+  padding: 50px;
+}
+.parent-card h5{
+  text-align: center;
+  color: #00bcd4;
+  margin-top: 80px;
+  margin-bottom: 20px;
+
+}
+.child-card{
+  background-color: #dbe3e5;
+  height: 200px;
+  position: static;
+}
+.child-card img{
+  border-radius: 50%;
+  width: 75px;
+  float: left;
+  margin: 65px 45px;
+  position: absolute;
+}
+.child-card h3{
+  margin-top: 55px;
+}
+.child-card h3,p{
+ margin-left: 150px;
+}
+.card-body{
+  align-items: center;
+}
+.card-body a{
+  margin: 20px 250px;
+}
+.card-text{
+  text-align: center;
+  margin: 0;
+  font-size: 19px;
+}
+/* FOOTER */
+
+.socialHandle{
+  margin-left: 550px;
+  margin-right: 550px;
+}
+
+.socialHandle img{
+  width: 52px;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+.baseLogo img{
+  width: 200px;
+  height: 150px;
+  margin-left: 570px;
+  margin-right: 550px;
+}
+.fb{
+margin-left: 12px;
+}
+.tw{
+  margin: 0 20px;
+}
+.baseText{
+  text-align: center;
+  margin-bottom: 200px;
+  margin-right: 150px;
+}
